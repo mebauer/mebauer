@@ -3,7 +3,7 @@
 - 😄 Pronouns: he/him/his
 - Languages: Mostly Python 🐍 and SQL 📁
 - Currently working on:
-  - 🗽 Making NYC Open Data more accessible through tutorials and guides
+  - 🗽 Making NYC Open Data more accessible through Python tutorials and guides
   - 🌊 Analyzing flooding in NYC using publicly available data sets
 - 🌱 Currently learning Data Science, specifically Spark 💥
 - 💬 Ask me about NYC Open Data or Flooding in NYC!
