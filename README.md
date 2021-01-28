@@ -1,4 +1,4 @@
-### About Me 
+### About Me :v:
 
 - 😄 Pronouns: he/him/his
 - Languages: Mostly Python 🐍 and SQL 📁
