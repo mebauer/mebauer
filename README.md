@@ -18,4 +18,4 @@ National Flood Insurance Program (NFIP) Data
 - [National Flood Insurance Program Data for New York City](https://github.com/mebauer/fema-nfip-nyc)
 - [New York City's Preliminary Flood Insurance Rate Map (PFIRM) Data Analysis](https://github.com/mebauer/nyc-floodzone-analysis))
 
-📫 How to reach me: [Twitter](https://twitter.com/markbauerwater) or [LinkedIn](https://www.linkedin.com/in/markebauer/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/markebauer/) or [Twitter](https://twitter.com/markbauerwater)
