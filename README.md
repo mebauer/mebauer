@@ -18,6 +18,6 @@ Portfolio of Open Data Projects:
 
 [Exploring the Projected Sea Level Rise Data by New York City Panel on Climate Change (NPCC) in Python](https://github.com/mebauer/projected-sea-level-rise-nyc)
 
-[New York City's Preliminary Flood Insurance Rate Map (PFIRM) Data Analysis]([https://github.com/mebauer/projected-sea-level-rise-nyc](https://github.com/mebauer/nyc-floodzone-analysis))
+[New York City's Preliminary Flood Insurance Rate Map (PFIRM) Data Analysis](https://github.com/mebauer/nyc-floodzone-analysis))
 
 - 📫 How to reach me: [Twitter](https://twitter.com/markbauerwater) or [LinkedIn](https://www.linkedin.com/in/markebauer/)
