@@ -5,7 +5,7 @@
 - [Sodapy Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
 
 ### Flood Data for New York City
-- [A Collection of Flood Datasets on NYC Open Data](https://github.com/mebauer/nyc-flood-data)
+- [NYC Open Data Flood Datasets Catalog: A Comprehensive Inventory](https://github.com/mebauer/nyc-flood-data)
 - [A Collection of Flood Hazard Layers for New York City](https://github.com/mebauer/nyc-flood-layers)
 
 ### Analyzing Flood Risk in New York City
