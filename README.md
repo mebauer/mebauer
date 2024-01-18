@@ -16,7 +16,7 @@
 - [Exploring the Projected Sea Level Rise Data by New York City Panel on Climate Change (NPCC) in Python](https://github.com/mebauer/projected-sea-level-rise-nyc)
 
 ### National Flood Insurance Program (NFIP) Data
-- [National Flood Insurance Program Data for New York City](https://github.com/mebauer/fema-nfip-nyc)
+- [Exploring National Flood Insurance Program Data for New York City](https://github.com/mebauer/fema-nfip-nyc)
 - [New York City's Preliminary Flood Insurance Rate Map (PFIRM) Data Analysis](https://github.com/mebauer/nyc-floodzone-analysis)
 
 ### Contact
