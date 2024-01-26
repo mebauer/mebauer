@@ -6,8 +6,8 @@
 
 ### Flood Data for New York City
 - [NYC Open Data Flood Datasets Catalog: A Comprehensive Inventory](https://github.com/mebauer/nyc-flood-data)
-- [A Collection of Flood Hazard Layers for New York City](https://github.com/mebauer/nyc-flood-layers)
 - [New York City Flooding Reports and Publications](https://github.com/mebauer/nyc-flood-reports)
+- [A Collection of Flood Hazard Layers for New York City](https://github.com/mebauer/nyc-flood-layers)
 
 ### Analyzing Flood Risk in New York City
 - [Analyzing NYC's Stormwater Flood Map - Extreme Flood Scenario](https://github.com/mebauer/stormwater-map-analysis-nyc)
