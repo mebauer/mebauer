@@ -2,7 +2,7 @@
 
 ### General Data Analysis & Science
 - [Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data](https://github.com/mebauer/data-analysis-using-python)
-- [Sodapy Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
+- [Socrata Open Data API (SODA) Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
 
 ### Flood Data for New York City
 - [NYC Open Data Flood Datasets Catalog: A Comprehensive Inventory](https://github.com/mebauer/nyc-flood-data)
