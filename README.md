@@ -2,6 +2,7 @@
 
 ### General Data Science
 - [DuckDB in Python: A Beginner's Guide](https://github.com/mebauer/duckdb-python-basics)
+- [Ibis Basics: An Introduction to the Portable Python Dataframe Library](https://github.com/mebauer/ibis-basics)
 - [Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data](https://github.com/mebauer/data-analysis-using-python)
 - [Socrata Open Data API (SODA) Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
 
