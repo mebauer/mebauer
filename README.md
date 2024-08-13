@@ -5,6 +5,7 @@
 - [Ibis Basics: An Introduction to the Portable Python Dataframe Library](https://github.com/mebauer/ibis-basics)
 - [Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data](https://github.com/mebauer/data-analysis-using-python)
 - [Socrata Open Data API (SODA) Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
+- [MTA Subway Origin-Destination Ridership Estimate 2023](https://github.com/mebauer/mta-data)
 
 ### National Flood Insurance Program (NFIP) Data
 - [Analyzing FEMA's National Flood Insurance Program (NFIP) Data With DuckDB](https://github.com/mebauer/duckdb-fema-nfip)
