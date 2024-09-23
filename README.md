@@ -1,12 +1,9 @@
 ## Portfolio of Open Data Projects:
 
 ### General Data Science
+- [Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data](https://github.com/mebauer/data-analysis-using-python)
 - [DuckDB in Python: A Beginner's Guide](https://github.com/mebauer/duckdb-python-basics)
 - [Ibis Basics: An Introduction to the Portable Python Dataframe Library](https://github.com/mebauer/ibis-basics)
-- [Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data](https://github.com/mebauer/data-analysis-using-python)
-- [Socrata Open Data API (SODA) Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
-- [MTA Subway Origin-Destination Ridership Estimate 2023](https://github.com/mebauer/mta-data)
-- [Big Data on NYC Open Data](https://github.com/mebauer/nyc-open-bigdata)
 
 ### National Flood Insurance Program (NFIP) Data
 - [Analyzing FEMA's National Flood Insurance Program (NFIP) Data With DuckDB](https://github.com/mebauer/duckdb-fema-nfip)
@@ -25,6 +22,11 @@
 - [NYC Open Data Flood Datasets Catalog: A Comprehensive Inventory](https://github.com/mebauer/nyc-flood-data)
 - [New York City Flooding Reports and Publications](https://github.com/mebauer/nyc-flood-reports)
 - [A Collection of Flood Hazard Layers for New York City](https://github.com/mebauer/nyc-flood-layers)
+
+### NYC Open Data
+- [Socrata Open Data API (SODA) Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
+- [MTA Subway Origin-Destination Ridership Estimate 2023](https://github.com/mebauer/mta-data)
+- [Big Data on NYC Open Data](https://github.com/mebauer/nyc-open-bigdata)
 
 ### Contact
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/markebauer/) or [Twitter](https://twitter.com/markbauerwater)
