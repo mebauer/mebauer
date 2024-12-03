@@ -26,7 +26,7 @@
 - [A Collection of Flood Hazard Layers for New York City](https://github.com/mebauer/nyc-flood-layers)
 
 ### NYC Open Data
-- [Socrata Open Data API (SODA) Tutorial with Python and NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
+- [Socrata Open Data API Tutorial with Python and NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
 - [MTA Subway Origin-Destination Ridership Estimate 2023](https://github.com/mebauer/mta-data)
 - [Big Data on NYC Open Data](https://github.com/mebauer/nyc-open-bigdata)
 
