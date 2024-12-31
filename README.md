@@ -21,7 +21,7 @@
 - [Exploring the Projected Sea Level Rise Data by New York City Panel on Climate Change (NPCC) in Python](https://github.com/mebauer/projected-sea-level-rise-nyc)
 
 ### Flood Data for New York City
-- [NYC Open Data Flood Datasets Catalog: A Comprehensive Inventory](https://github.com/mebauer/nyc-flood-data)
+- [Flood Data for NYC: A Comprehensive Inventory on NYC Open Data](https://github.com/mebauer/nyc-flood-data)
 - [New York City Flooding Reports and Publications](https://github.com/mebauer/nyc-flood-reports)
 - [A Collection of Flood Hazard Layers for New York City](https://github.com/mebauer/nyc-flood-layers)
 
