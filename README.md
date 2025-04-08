@@ -7,6 +7,7 @@
 
 ### National Flood Insurance Program (NFIP) Data
 - [Analyzing FEMA's National Flood Insurance Program (NFIP) Data With DuckDB](https://github.com/mebauer/duckdb-fema-nfip)
+- [Analyzing Flood Insurance Claim Trends in New York City: Insights from FEMA's National Flood Insurance Program Data](https://github.com/mebauer/nyc-odw25-nfip)
 - [Exploring National Flood Insurance Program Data for New York City](https://github.com/mebauer/fema-nfip-nyc)
 - [Exploring FEMA's Preliminary Flood Insurance Rate Map (PFIRM) for NYC using Python](https://github.com/mebauer/nyc-floodzone-analysis)
 - [FEMA Disaster Declarations and Public Assistance Data Analysis](https://github.com/mebauer/fema-disaster-information)
