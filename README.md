@@ -33,4 +33,4 @@
 - [Big Data on NYC Open Data](https://github.com/mebauer/nyc-open-bigdata)
 
 ### Contact
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/markebauer/) or [Twitter](https://twitter.com/markbauerwater)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/markebauer/).
